@@ -1,4 +1,4 @@
-import keras
+import tensorflow.keras as keras
 from keras.datasets import cifar10
 import matplotlib.pyplot as plt
 import numpy as np
